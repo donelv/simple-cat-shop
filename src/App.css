@@ -1,0 +1,16 @@
+body {
+  background-image: url('../public/Pattern.png');
+  background-color: #202020;
+  text-align: center;
+}
+.header {
+  color: #ffffff;
+  font-family: 'Exo2';
+}
+.cardswrapper {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  padding: 0 20px;
+}
