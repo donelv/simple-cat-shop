@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/simple-cat-shop/static/css/main.7a2cce70.css",
+    "main.js": "/simple-cat-shop/static/js/main.1415654a.js",
+    "static/js/787.7de8d527.chunk.js": "/simple-cat-shop/static/js/787.7de8d527.chunk.js",
+    "static/media/Cat.png": "/simple-cat-shop/static/media/Cat.402e20df40a0ab7fa5cd.png",
+    "static/media/Pattern.png": "/simple-cat-shop/static/media/Pattern.8b93e2127ee44e2a8146.png",
+    "static/media/Exo2.0-Thin.otf": "/simple-cat-shop/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "index.html": "/simple-cat-shop/index.html",
+    "main.7a2cce70.css.map": "/simple-cat-shop/static/css/main.7a2cce70.css.map",
+    "main.1415654a.js.map": "/simple-cat-shop/static/js/main.1415654a.js.map",
+    "787.7de8d527.chunk.js.map": "/simple-cat-shop/static/js/787.7de8d527.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2cce70.css",
+    "static/js/main.1415654a.js"
+  ]
+}
